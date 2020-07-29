@@ -744,9 +744,9 @@ a:hover.tp-button.lightgrey {
 @font-face {
 	font-family: 'ekikorp';
 	src: url(fonts/ekokorpFont.ttf);
-	/*src: url(fonts/mfn-icons.eot) format("embedded-opentype"), url(fonts/mfn-icons.woff) format("woff"), url(fonts/mfn-icons.ttf) format("truetype"), url(fonts/mfn-icons.svg) format("svg");*/
-	/*font-weight: 400;*/
-	/*font-style: normal;*/
+	src: url(fonts/mfn-icons.eot) format("embedded-opentype"), url(fonts/mfn-icons.woff) format("woff"), url(fonts/mfn-icons.ttf) format("truetype"), url(fonts/mfn-icons.svg) format("svg");
+	font-weight: 400;
+	font-style: normal;
 }
 h1,h2{
 	font-family: ekikorp;

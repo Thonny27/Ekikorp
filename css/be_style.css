@@ -2153,7 +2153,7 @@ p.demo_store {
 }
 
 .woocommerce ul.products li.product.adding-to-cart .product-loading-icon {
-    background-image: url(../images/shop-loader.gif);
+    background-image: url(images/shop-loader.gif);
     background-position: center center;
     background-repeat: no-repeat;
 }
@@ -4094,7 +4094,7 @@ ul.clients.clients_tiles li .client_wrapper:after {
 }
 
 body:not(.template-slider) #Header_wrapper {
-    background-image: url(../images/home_slider.jpg);
+    background-image: url(images/home_slider.jpg);
 }
 
 #gallery-1 {
@@ -4422,7 +4422,7 @@ img {
 }
 
 .flv_header_wrapper {
-    background-image: url(../images/abstract.jpg);
+    background-image: url(images/abstract.jpg);
 }
 
 .flv_sections_11 {

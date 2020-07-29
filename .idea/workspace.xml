@@ -3,6 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="373b81aa-a3cf-45a8-a6fb-6b2e1148861e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/be_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/be_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/hotel4.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hotel4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/css/hotel4.css" beforeDir="false" afterPath="$PROJECT_DIR$/en/css/hotel4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/body3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/body4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bodyg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/headerg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/person3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/room-service.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +57,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595795319521</updated>
-      <workItem from="1595795324079" duration="5083000" />
+      <workItem from="1595795324079" duration="5259000" />
+      <workItem from="1595897257321" duration="10175000" />
+      <workItem from="1595981459260" duration="4307000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="80" width="627" height="568" key="find.popup" timestamp="1595985710338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="369" y="80" width="627" height="568" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1595985710338" />
   </component>
 </project>
